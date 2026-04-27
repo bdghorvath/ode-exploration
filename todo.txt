@@ -1,0 +1,16 @@
+Summary Checklist for your GitHub:
+[ ] ODE Analysis: Jacobian/Stability analysis of equilibrium points.
+
+[ ] Model Comparison: Comparison between basic LV, Logistic growth, and Holling responses.
+
+[ ] Stochasticity: Gillespie algorithm simulation.
+
+[ ] Visuals: Phase portraits, time-series with confidence intervals, and a spatial heat map.
+
+[ ] Data Fitting: Use SciPy to fit model parameters to the Lynx/Hare historical dataset.
+
+[ ] Deployment: A simple Streamlit app for interactivity.
+
+https://www.youtube.com/watch?v=swt-let4pCI
+
+https://www.youtube.com/results?search_query=phase+diagram+ode
